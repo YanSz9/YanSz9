@@ -3,3 +3,6 @@
 - :four_leaf_clover: Brazilian,Back-end developer
 - :computer: Java, Spring, C#, .Net, SQL, Golang.
 - :watch: Listen to music,watch animes,code,play games.
+
+### Contact me :speech_balloon:
+<a href="https://www.linkedin.com/in/yan-corr%C3%AAa999/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
